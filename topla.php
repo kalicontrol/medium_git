@@ -18,7 +18,12 @@
         $argumanSayisi = func_num_args();
 
         for ($i = 0; $i < $argumanSayisi; $i++) {
-            $carpim *= func_get_arg($i);
+
+            if (func_get_arg($i) == 0) {
+                continue;
+            } else {
+                $carpim *= func_get_arg($i);
+            }
         }
         return $carpim;
     }
