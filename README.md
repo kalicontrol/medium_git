@@ -1,0 +1,1 @@
+Bu dosyayı silmek istiyorum.
