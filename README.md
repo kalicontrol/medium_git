@@ -1,1 +1,1 @@
-Bu dosyayı silmek istiyorum.
+ALSKJFSLJ SLK MKLSFBu dosyayı silmek istiyorum.
